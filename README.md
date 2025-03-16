@@ -1,5 +1,5 @@
 # Bank-management-System-
-ES-221 Project 
+ES-221 Project 2023575,2023238,2023563
 This is a basic implementation of a Banking System in C++ in which Data Structures are used.
 **Introduction**
 The Banking Management System is a C++ program designed to simulate basic banking operations such as adding customers, managing transactions (deposits and withdrawals), and displaying customer details. The system leverages various data structures to efficiently store, retrieve, and manage customer information and transactions. This project demonstrates the practical application of data structures like linked lists, hash tables, binary search trees (BST), and queues in a real-world scenario.
